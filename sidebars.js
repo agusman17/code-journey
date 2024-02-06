@@ -23,6 +23,7 @@ const sidebars = {
       label : "Docker",
       items: [
         'dev-ops/docker/docker-intro',
+        'dev-ops/docker/docker-compose',
         'dev-ops/docker/docker-laravel'
       ]
     }
